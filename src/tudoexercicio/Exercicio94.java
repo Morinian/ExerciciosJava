@@ -1,9 +1,8 @@
-package tudoexercicio;
-
+package logica_programacao;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Exer94 {
+public class Exercicio94 {
 
     public static void main (String[] args){
         Scanner valor = new Scanner(System.in);

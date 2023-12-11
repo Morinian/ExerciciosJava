@@ -1,10 +1,10 @@
-package tudoexercicio;
+package logica_programacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Exer92 {
+public class Exercicio92 {
 
     public static void main (String[] args){
 

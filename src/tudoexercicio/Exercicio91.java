@@ -1,8 +1,8 @@
-package tudoexercicio;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class Exer91 {
+public class Exercicio91 {
 
     public static void main (String[] args){
 

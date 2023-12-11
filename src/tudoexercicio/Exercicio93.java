@@ -1,9 +1,9 @@
-package tudoexercicio;
+package logica_programacao;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Exer93 {
+public class Exercicio93 {
 
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
